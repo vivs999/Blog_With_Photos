@@ -1,0 +1,38 @@
+.div_date{
+    width:300;
+ position: sticky;
+  top:0;
+   z-index: 99999999999;
+   text-align: center;
+   background-color: darkcyan;
+   border: 10px ridge teal;
+   float: right;
+   color: darkturquoise;
+   font-size: 25;
+}
+
+body{
+    background-color: turquoise;
+    color: darkcyan;
+    text-align: center;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
+.image-section img{
+    height: 200;
+    width:200
+}
+
+.section-style{
+    margin: 25px;
+    background-color: darkcyan;
+    color: darkturquoise;
+    padding: 15px;
+    border-radius: 12px;
+    border:10px ridge teal;
+    width:45%;
+}
